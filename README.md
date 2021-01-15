@@ -1,1 +1,1 @@
-# volatility_forecast
+# Stock Volatility Forecasting
